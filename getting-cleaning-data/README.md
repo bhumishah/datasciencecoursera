@@ -15,7 +15,7 @@ Create R script called "run_analysis.R" , does the following :
 6. Appropriately labels the data set with descriptive activity names. 
 7. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-### Note : Set correct working directory before execute 
+
 ### Result is in tidyData.txt
 
 ## Code Book - Additional information
@@ -23,6 +23,8 @@ Create R script called "run_analysis.R" , does the following :
 ### Data Source  
 Reference : The UCI Machine Learning Repository
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+#### Note : Set correct working directory before execute 
 
 ### Attribute Information
 For each record in the dataset it is provided: 
